@@ -29,6 +29,7 @@ a {
     max-width: 920px;
     padding: 5 10px;
     margin: 0 auto;
+    overflow-x: hidden;
 }
 
 body {
